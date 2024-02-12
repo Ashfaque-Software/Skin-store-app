@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a56508de.css",
+    "main.js": "/static/js/main.357f26c2.js",
+    "static/js/592.bf6ca574.chunk.js": "/static/js/592.bf6ca574.chunk.js",
+    "static/media/Singles-Day.jpeg": "/static/media/Singles-Day.dbba1d10cce90b398467.jpeg",
+    "static/media/Holiday-Shop.jpeg": "/static/media/Holiday-Shop.17afd49e9d997a91fb29.jpeg",
+    "static/media/Holiday-Edit.jpeg": "/static/media/Holiday-Edit.4af998d0c1bd17e68006.jpeg",
+    "static/media/Black-Friday.jpeg": "/static/media/Black-Friday.4f26b86dccfce9326180.jpeg",
+    "static/media/Review-medium.jpg": "/static/media/Review-medium.c2987519c048ef569fcf.jpg",
+    "static/media/Google__G__Logo.svg.png": "/static/media/Google__G__Logo.svg.c6f1e28cf2b1860295b9.png",
+    "static/media/Reviews-image.jpeg": "/static/media/Reviews-image.5c6b075022d01a6c68c0.jpeg",
+    "static/media/Review-small.jpg": "/static/media/Review-small.c2b1e6d56e187083c173.jpg",
+    "static/media/Facebook_F_icon.svg.png": "/static/media/Facebook_F_icon.svg.a4199a2e75298373ab0b.png",
+    "static/media/Blossom.png": "/static/media/Blossom.7cb4bc35a01042e0f660.png",
+    "index.html": "/index.html",
+    "main.a56508de.css.map": "/static/css/main.a56508de.css.map",
+    "main.357f26c2.js.map": "/static/js/main.357f26c2.js.map",
+    "592.bf6ca574.chunk.js.map": "/static/js/592.bf6ca574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56508de.css",
+    "static/js/main.357f26c2.js"
+  ]
+}
